@@ -402,11 +402,15 @@ img{
     color: var(--first-color);
 }
 
+.skills__icon{
+    margin-right: var(--mb-0-75);
+}
+
 .skills__title{
     font-size: var(--h3-font-size);
 }
 
-.skills__subititle{
+.skills__subtitle{
     font-size: var(--small-font-size);
     color: var(--text-color-light);
 }
@@ -433,7 +437,6 @@ img{
     border-radius: .25rem;
 }
 
-
 .skills__bar{
     background-color: var(--first-color-lighter);
 }
@@ -445,14 +448,6 @@ img{
 
 .skills__html{
     width: 90%;
-}
-
-.skills__css{
-    width: 80%;
-}
-
-.skills__js{
-    width: 50%;
 }
 /*==================== QUALIFICATION ====================*/
 
