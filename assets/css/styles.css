@@ -570,7 +570,7 @@ img{
     font-weight: var(--font-medium);
 }
 
-.qualification__subititle{
+.qualification__subtitle{
     display: inline-block;
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
